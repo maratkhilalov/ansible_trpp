@@ -1,0 +1,6 @@
+"Server {{ ansible_hostname }} ( ip
+{{ansible_default_ipv4.address }} ) greets you: {{ greeting
+| default("Hello") }}!
+Name: {{ student_info.full_name }}
+Group: {{ student_info.group_number }}
+Variant: {{ student_info.variant_number }}"

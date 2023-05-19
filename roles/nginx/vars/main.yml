@@ -1,0 +1,10 @@
+---
+
+html_dir: /usr/share/nginx/html
+greeting: "Hello Everybody!"
+student_info:
+  full_name: "Khilalov Marat Zufarovich"
+  group_number: "INBO-10-21"
+  variant_number: 5
+
+# vars file for nginx
